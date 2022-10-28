@@ -1,0 +1,7 @@
+*png
+*svg
+*csv
+*txt
+*zip
+./old_data/*
+./cgrs_grid/*
